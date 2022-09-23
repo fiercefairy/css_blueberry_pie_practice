@@ -1,0 +1,17 @@
+header h1 {
+  color:rgb(241, 80, 37);
+  font-weight: 500;
+  font-family: "Copper Pot",sans-serif;
+  font-size: 2em;
+  display:inline-block;
+}
+header li {
+  float:left;
+  padding-left:10px ;
+}
+header li img{
+  width: 20px;
+}
+header div{
+  float:left;
+}
